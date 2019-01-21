@@ -1,7 +1,7 @@
 # Getting-and-Cleaning-Data-Week-4-Assignment
 This project includes four files: README.md, codebook.md, run_analysis.R, tidy_data.txt
 
-Followings are done:
+The following steps are performed:
 
 Download the dataset to my working directory and unzip.
 Load the dataset: X_train.txt, X_test.txt, y_train.txt, y_test.txt, subject_train.txt, subject_test.txt, features.txt, activity_labels.txt.
